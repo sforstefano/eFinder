@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Llista_esdeveniments>
+    <esdeveniment>
+        <id_promotor>91</id_promotor>
+        <tipus>1</tipus>
+        <nom_esdeveniment>'Prova concert'</nom_esdeveniment>
+        <preu>35</preu>
+        <entrada>'https://www.ticketmaster.es/artist/bilbao-bbk-festival-entrades/912290'</entrada>
+        <localitzacioGoogle>'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.625409695512!2d-2.963928134514982!3d43.25927192913678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e504e9157e4b1%3A0x4419d438dbe4294c!2sBilbao+BBK+Live!5e0!3m2!1ses!2ses!4v1558369089610!5m2!1ses!2ses'</localitzacioGoogle>
+        <lloc>'Honkong'</lloc>
+        <data_inici>'2011-07-19 00:00:00'</data_inici>
+        <data_fi>'2013-07-19 00:00:00'</data_fi>
+        <data_m>'15 de febrer'</data_m>
+        <descripcio>'Despréasdasdasdasdasdasdasda '</descripcio>
+        <imtge_p>'../images/img_2.jpg'</imtge_p>
+        <imatge_s>'../images/img_201.jpg'</imatge_s>
+        <descripcio_e>'After celebrating '</descripcio_e>
+        <data_me>'11, 12, 13 July'</data_me>
+    </esdeveniment>
+</Llista_esdeveniments>

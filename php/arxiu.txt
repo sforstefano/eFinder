@@ -1,0 +1,193 @@
+Nom de l'esdeveniment: Imagine Dragons: Evolve Tour
+                
+Data: 1 Novembre
+                
+Lloc: Valencia
+                
+Preu: 80 €
+                
+Nom de l'esdeveniment: Concert Ed Sheeran
+                
+Data: 11 Juny
+                
+Lloc: Madrid
+                
+Preu: 89 €
+                
+Nom de l'esdeveniment: XVI Congreso SED 2019
+                
+Data: 29 Maig al 1 Juny
+                
+Lloc: Zaragoza
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Dulceweekend 2019
+                
+Data: 13 i 14 Juliol
+                
+Lloc: Sabadell
+                
+Preu: 15 €
+                
+Nom de l'esdeveniment: Barcelona Liverpool Directo Tv
+                
+Data: 10 Juny
+                
+Lloc: Barcelona
+                
+Preu: 22 €
+                
+Nom de l'esdeveniment: MYBARRIO Pop Up d'Estiu
+                
+Data: 15 i 16 Juny
+                
+Lloc: Barcelona
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Internal Wing Chun
+                
+Data: 6, 7 i 8 Setembre
+                
+Lloc: Itàlia
+                
+Preu: 198 €
+                
+Nom de l'esdeveniment: Codemotion Madrid 2019 
+                
+Data: 24 i 25 Setembre
+                
+Lloc: Madrid
+                
+Preu: 125 €
+                
+Nom de l'esdeveniment: HACKATHON De Moda Sostenible
+                
+Data: 29 Maig
+                
+Lloc: Sevilla
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Wanderlust 108 Madrid 2019
+                
+Data: 5 Octubre
+                
+Lloc: Madrid
+                
+Preu: 35 €
+                
+Nom de l'esdeveniment: Lujo. De los Asirios a Alejandro Magno
+                
+Data: Fins 11 Agost
+                
+Lloc: Barcelona
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Twenty One Pilots Bandito Tour
+                
+Data: 5 Juliol
+                
+Lloc: Bilbao
+                
+Preu: 50 €
+                
+Nom de l'esdeveniment: Spider-Man: Lejos de casa
+                
+Data: 05 Juliol
+                
+Lloc: Les Gavarres
+                
+Preu: 8 €
+                
+Nom de l'esdeveniment: Quántica en el CCCB
+                
+Data: Fins 24 Setembre
+                
+Lloc: Barcelona
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: UNITE With Tomorrowland
+                
+Data: 27 i 28 Juliol
+                
+Lloc: Barcelona
+                
+Preu: 60 €
+                
+Nom de l'esdeveniment: Primavera Sound
+                
+Data: 29 Maig al 2 Juny
+                
+Lloc: Barcelona
+                
+Preu: 215 €
+                
+Nom de l'esdeveniment: Applause 2019
+                
+Data: 7 Juny
+                
+Lloc: Barcelona
+                
+Preu: 713 €
+                
+Nom de l'esdeveniment: The Meet Vincent Van Gogh
+                
+Data: 02 Maig al 05 Juny
+                
+Lloc: Barcelona
+                
+Preu: 9 €
+                
+Nom de l'esdeveniment: X-Men: Fénix Oscura
+                
+Data: 07 Juny
+                
+Lloc: Les Gavarres
+                
+Preu: 8 €
+                
+Nom de l'esdeveniment: BBK Live 2019
+                
+Data: 11, 12, 13 Juliol
+                
+Lloc: Bilbao
+                
+Preu: 62 €
+                
+Nom de l'esdeveniment: La Vida Moderna
+                
+Data: 12 Setembre
+                
+Lloc: Madrid
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Festa Major Lleida
+                
+Data: 9 al 12 Maig
+                
+Lloc: Lleida
+                
+Preu: 0 €
+                
+Nom de l'esdeveniment: Aladdín
+                
+Data: 24 Maig
+                
+Lloc: Les Gavarres
+                
+Preu: 8 €
+                
+Nom de l'esdeveniment: Avengers: Endgame
+                
+Data: 14 Abril
+                
+Lloc: Global
+                
+Preu: 9 €
+                
+
