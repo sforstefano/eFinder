@@ -3,12 +3,12 @@
 
 class TAccesDB{
 
-    private $servidor;
-		private $usuari;
-		private $pass;
+	private $servidor;
+	private $usuari;
+	private $pass;
     private $bd;
-		private $con;
-		private $res;
+	private $con;
+	private $res;
 
 
   //connecta amb la BD. Retorna si hi ha o no conexió
@@ -18,23 +18,6 @@ class TAccesDB{
 		$this->pass = $contrasenya;
 		$this->bd = $bd;
 		$this->con = mysqli_connect ($servidor, $usuari, $contrasenya, $bd);
-		#mysqli_select_db($this->con, $bd) or die("Could not open the db '$bd'");
-
-		#$test_query = "SHOW TABLES FROM $bd";
-		#$result = mysqli_query($this->con, $test_query);
-
-		#$tblCnt = 0;
-		#while($tbl = mysqli_fetch_array($result)) {
- 			#$tblCnt++;
-  		#echo $tbl[0]."<br />\n";
-		#}
-
-		#if (!$tblCnt) {
-		  #echo "There are no tables<br />\n";
-		#} else {
-		  #echo "There are $tblCnt tables<br />\n";
-		#}				
-
 
 		mysqli_set_charset($this->con,"utf8");
 	}
@@ -47,7 +30,7 @@ class TAccesDB{
 		}
 	}
 
-  //retorn si hi a o  no connexio
+  	//retorn si hi a o  no connexio
 	public function connectat(){
 		return ($this->con != false);
 	}
@@ -58,10 +41,6 @@ class TAccesDB{
 		
 
 		$this->res = mysqli_query ($this->con, $instruccio);
-
-		if(!$this->res){
-			echo ("Hiiiii2".mysql_error());
-		}
 
 		return $this->res;
 	}

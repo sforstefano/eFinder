@@ -7,7 +7,7 @@ class TUsuario{
     private $servidor = "localhost";
 	private $usuari = "root";
 	private $passw = "usbw";
-    private $bd = "DAW2_LIIGHTCODE";
+    private $bd = "efinder";
 
     public function RegistrePromotor($cif_promotor, $nom_local, $adreca, $nom_usuari){
     //registrar promotor
